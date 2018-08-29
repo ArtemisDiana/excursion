@@ -1,12 +1,34 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
 h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: White;
-  text-align: center;
 }
 
 a {
   color: Aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 42px;
+  color: White;
+}
+
+.annotation {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.copyright {
+  color: Gray;
+  text-align: right;
 }
